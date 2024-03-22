@@ -1,4 +1,4 @@
-2import java.util.Scanner;
+import java.util.Scanner;
 public class program1 
 {
  public static void main(String[] args)
@@ -15,8 +15,8 @@ public class program1
     b1 =  (short) (b1+sh1);
     sh1 = (byte) (b1 - sh1);
     b1 =  (short) (b1- sh1);
-    System.out.println("byte variable"+ b1);
-    System.out.println("short varibale"+ sh1);
+    System.out.println("byte variable ="+ b1);
+    System.out.println("short varibale ="+ sh1);
 
 
 
